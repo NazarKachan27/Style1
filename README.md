@@ -1,7 +1,7 @@
 # Style1
 <html>
     <head>
-            <link rel="stylesheet"
+            <link rel="Style1"
             href="style.css"/>
         </head>
     <body>
